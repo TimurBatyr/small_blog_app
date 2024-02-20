@@ -1,6 +1,6 @@
 ## Small Blog App
 
-This is a small blog application of like tweeter. Here I used Rails Scaffolding tool
+This is a small blog applicationlike tweeter. Here I used Rails Scaffolding tool
 in order to build this application.
 
 This messenger covers routes:
